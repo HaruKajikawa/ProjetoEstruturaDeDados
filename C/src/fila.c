@@ -1,5 +1,6 @@
 #include "fila.h"
 #include <stdlib.h>
+#include <stdio.h>
 
 void fila_inicializar(Fila* f)
 {
